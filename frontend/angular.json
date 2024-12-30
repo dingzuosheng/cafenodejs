@@ -1,10 +1,5 @@
 {
-  "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "cli": {
-    "analytics": "36db4074-40ff-4709-ae58-b009b17627c1"
-  },
   "version": 1,
-  "newProjectRoot": "projects",
   "projects": {
     "Frontend": {
       "projectType": "application",
