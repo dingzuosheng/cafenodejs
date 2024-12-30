@@ -10,7 +10,6 @@ var connection = mysql.createConnection({
     authPlugins: {
         mysql_native_password: () => () =>
           new Promise((resolve, reject) => {
-            // 处理身份验证逻辑
             resolve();
           }),
       },
