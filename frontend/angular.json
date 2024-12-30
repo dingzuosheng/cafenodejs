@@ -1,4 +1,7 @@
 {
+  "cli": {
+    "analytics": "4867c5b2-f794-4131-8f67-75527212727a"
+  },
   "version": 1,
   "projects": {
     "Frontend": {
